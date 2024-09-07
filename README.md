@@ -1,5 +1,7 @@
 ## **README.md**
 
+## **Projeto Imersão Dev com Google Gemini/Mulheres na Programação**
+
 ### **Procurando por devs inspiradoras? Você encontrou o lugar certo!** 
 
 **O que essa aplicação faz?**
