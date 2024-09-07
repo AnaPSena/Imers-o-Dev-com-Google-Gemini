@@ -24,7 +24,7 @@ Digite o nome de uma desenvolvedora que você admira e pronto! A aplicação vas
 
 **Como usar:**
 
-1. **Clone este repositório:** `git clone https://github.com/seu-usuario/sua-aplicacao.git`
+1. **Clone este repositório:** `[git clone https://github.com/seu-usuario/sua-aplicacao.git](https://github.com/AnaPSena/Imers-o-Dev-com-Google-Gemini/tree/main)`
 2. **Abra o arquivo `index.html` em seu navegador.**
 3. **Comece a pesquisar!**
 
